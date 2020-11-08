@@ -2,7 +2,7 @@
 
 Libraries Used for below projects:
 
-Data manupulation: NumPy, Pandas, Regex
+Data manupulation: NumPy, Pandas, Scipy, scikit-learn, Re, Regex
 
 Data Analyze : Matplotlib, Seaborn, Plotly
 
